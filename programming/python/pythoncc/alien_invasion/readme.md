@@ -1,0 +1,1 @@
+In 'Alien Invasion' the player controls a rockship and fires at enemy aliens

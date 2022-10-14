@@ -1,0 +1,5 @@
+.git/
+.serverless/
+.gitignore
+.dockerignore
+serverless.yml
